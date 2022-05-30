@@ -1,5 +1,8 @@
-import React from 'react'
-import './footer.css'
+import React from 'react';
+import './footer.css';
+import {FaWhatsapp} from 'react-icons/fa';
+import {FaLinkedin} from 'react-icons/fa';
+import {FaGithub} from 'react-icons/fa';
 
 function Footer() {
   return (
@@ -19,10 +22,13 @@ function Footer() {
         
         <div className="sns-links">
            <a href="www.linkedin.com/in/juan-cruz-nieto-developer" target="_blank" rel="noreferrer">
-               <i className="fab fa-linkedin linkedin"></i>
+               <i className="icon-linkedin"><FaGithub size={35}/></i>
            </a>
            <a href="https://github.com/jcrnieto" target="_blank" rel="noreferrer">
-               <i className="fab fa-github github"></i>
+               <i className="icon-github"><FaLinkedin size={35}/></i>
+           </a>
+           <a href="https://wa.me/+543516468746" target="_blank" rel="noreferrer">
+               <i className="icon-whatsapp"><FaWhatsapp size={35} /></i>
            </a>
         </div>
         </div>
