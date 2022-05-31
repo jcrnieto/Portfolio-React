@@ -21,11 +21,11 @@ function Footer() {
             </div>
         
         <div className="sns-links">
-           <a href="www.linkedin.com/in/juan-cruz-nieto-developer" target="_blank" rel="noreferrer">
-               <i className="icon-linkedin"><FaGithub size={35}/></i>
+           <a href="https://linkedin.com/in/juan-cruz-nieto-developer" target="_blank" rel="noreferrer">
+               <i className="icon-linkedin"><FaLinkedin size={35}/></i>
            </a>
            <a href="https://github.com/jcrnieto" target="_blank" rel="noreferrer">
-               <i className="icon-github"><FaLinkedin size={35}/></i>
+               <i className="icon-github"><FaGithub size={35}/></i>
            </a>
            <a href="https://wa.me/+543516468746" target="_blank" rel="noreferrer">
                <i className="icon-whatsapp"><FaWhatsapp size={35} /></i>
@@ -34,6 +34,6 @@ function Footer() {
         </div>
     </footer>
   )
-}
+}  
 
 export default Footer

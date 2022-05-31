@@ -23,11 +23,13 @@
     line-height: 1.5;
 }
 
-.about-desc > a {
+.about-desc > .button-cv > a {
     text-decoration: none;
     margin-top: 80px;
     font-size:30px;
+    color: black;
 }
+
 
 .about-img {
     width: 45%;
@@ -35,6 +37,19 @@
     align-self: center;
     overflow:hidden;
     margin-left: 70px;
+}
+
+.button-cv:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+
+.button-cv {
+   margin-top: 50px;
+   border-radius: 10px;
+   margin-left: 120px;
+   margin-right: 120px;
+  
 }
 
 @media only screen and (max-width: 960px) {
@@ -65,5 +80,15 @@
         width: 100%;
     }
 
-   
+    .button-cv {
+        margin-top: 50px;
+        border-radius: 10px;
+        margin-left: 75px;
+        margin-right: 75px;
+       
+     }
+
+     .sns-links {
+         margin-left: 60px;
+     }
 }

@@ -1,7 +1,6 @@
 import React from 'react';
 import "./about.css";
 import fotoPerfil from "../../media/fotoPerfil.jpg";
-import ReactToPdf from 'react-to-pdf';
 import CV from '../../media/CV.pdf';
 
 function About() {
@@ -17,11 +16,11 @@ function About() {
           especializándome en el rubro. Me gusta estar capacitándome
           continuamente.
         </p>
-        
+        <button className="button-cv">
           <a href={CV} download>
             descargar CV
           </a>
-       
+        </button>
       </div>
       <div className="about-img">
         <img src={fotoPerfil} alt="about" />
