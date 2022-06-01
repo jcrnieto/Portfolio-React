@@ -7,17 +7,17 @@ const slidesInfo = [
     {
         src:"https://i.ibb.co/9HgSZ8z/pi-food-formulario.png",
         alt:"proyecto1",
-        desc:"pi-food-gv1k8m707-jcrnieto.vercel.app"
+        desc:"https://pi-food-snowy.vercel.app/"
     },
     {
         src:"https://i.ibb.co/ykLFMW6/portfolio-pi-detail.png",
         alt:"proyecto2",
-        desc:"pi-food-gv1k8m707-jcrnieto.vercel.app"
+        desc:"https://pi-food-snowy.vercel.app/"
     },
     {
         src:"https://i.ibb.co/4P2WfnS/portfolio-pi-home.png",
         alt:"proyecto3",
-        desc:"pi-food-gv1k8m707-jcrnieto.vercel.app"
+        desc:"https://pi-food-snowy.vercel.app/"
     }
 ]
 
