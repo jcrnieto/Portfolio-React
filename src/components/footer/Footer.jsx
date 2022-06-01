@@ -3,12 +3,18 @@ import './footer.css';
 import {FaWhatsapp} from 'react-icons/fa';
 import {FaLinkedin} from 'react-icons/fa';
 import {FaGithub} from 'react-icons/fa';
+import {FaEnvelope} from 'react-icons/fa';
 
 function Footer() {
   return (
     <footer className="footer">
-        <div className="footer-info">
-           <h1>Juan Cruz Nieto</h1>
+       <div className="footer-info">
+         <div className="email">
+           <a href="https://jcrnietos@gmail.com" target="_blank" rel="noreferrer">
+               <i className="icon-gmail"><FaEnvelope size={35}/></i>
+           </a>
+           <p>jcrnietos@gmail.com</p>
+         </div>
            <p>Córdoba-Argentina</p>
         </div>
         <div className="footer-contact">
@@ -17,7 +23,7 @@ function Footer() {
         </div>
         <div className="footer-sns">
             <div className="design-by">
-                Diseño echo por Juan Cruz Nieto
+                Diseñado por Juan Cruz Nieto
             </div>
         
         <div className="sns-links">

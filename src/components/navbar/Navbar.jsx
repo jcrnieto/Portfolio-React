@@ -7,7 +7,7 @@ function Navbar({isScrolling}) {
     }
   return (
     <nav className={`navbar ${isScrolling > 20 ? "scrolling" : null}`}>
-        <div className="navbar-logo" onClick={toTheTop}>Juan Cruz Nieto</div>
+        <div className="navbar-logo" onClick={toTheTop}>Desarrollador Web</div>
     </nav>
   )
 }

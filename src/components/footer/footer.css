@@ -65,6 +65,14 @@
     color: white;
 }
 
+.footer-info > .email {
+    display: flex;
+}
+
+.footer-info > .email > p {
+    padding-left: 15px;
+}
+
 @media only screen and (max-width: 960px){
     .footer-info {
         text-align: center;
@@ -86,4 +94,6 @@
     .design-by {
         padding: 0 0 40px 90px;
     }
+
+    
 }
