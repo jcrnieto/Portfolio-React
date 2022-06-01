@@ -10,11 +10,9 @@ function Slider() {
     <div className="carousel-container">
         <div className="carousel-title">
             <h2>Mis proyectos</h2>
-        </div>
-    
-        <Carousel plugins={['arrows', 'infinite','centered',]}>{slides}</Carousel>
-    
     </div>
+       <Carousel plugins={['arrows', 'infinite','centered',]}>{slides}</Carousel>
+     </div>
   )
 }
 

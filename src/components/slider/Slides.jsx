@@ -5,17 +5,17 @@ import './slider.css'
 
 const slidesInfo = [
     {
-        src:"https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737_960_720.jpg",
+        src:"https://i.ibb.co/9HgSZ8z/pi-food-formulario.png",
         alt:"proyecto1",
         desc:"proyecto1"
     },
     {
-        src:"https://cdn.pixabay.com/photo/2017/10/31/19/05/web-design-2906159_960_720.jpg",
+        src:"https://i.ibb.co/ykLFMW6/portfolio-pi-detail.png",
         alt:"proyecto2",
         desc:"proyecto2"
     },
     {
-        src:"https://cdn.pixabay.com/photo/2015/02/05/08/06/macbook-624707_960_720.jpg",
+        src:"https://i.ibb.co/4P2WfnS/portfolio-pi-home.png",
         alt:"proyecto3",
         desc:"proyecto3"
     }
