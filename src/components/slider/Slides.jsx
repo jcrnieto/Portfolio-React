@@ -1,7 +1,4 @@
-/*import img1 from '../../media/img1.png'
-import img2 from '../../media/img2.png'
-import img3 from '../../media/img3.png'*/
-//import fotoPerfil from '../../media/fotoPerfil.jpg'
+
 import './slider.css'
 
 const slidesInfo = [
@@ -36,8 +33,7 @@ const slides = slidesInfo.map(el => (
     <div className="slider-container">
         <img src={el.src} alt={el.alt}/>
         <div className="slide-desc">
-            <p>Ver proyecto</p>
-            <span><a href={el.desc} target="_blank">{el.desc}</a></span>
+            <span><a href={el.desc} target="_blank" className='link'>Ver Proyecto</a></span>
         </div>
     </div>
 ))

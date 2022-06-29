@@ -69,6 +69,13 @@
     border-color: black !important;
 }
 
+.link{
+    text-decoration: none;
+    color: white;
+    margin-left: 15px;
+    font-size: 25px;
+}
+
 @media only screen and (max-width: 960px){
     .carousel-container {
         flex-direction: column;
