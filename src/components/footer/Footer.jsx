@@ -18,7 +18,7 @@ function Footer() {
            <p>Córdoba-Argentina</p>
         </div>
         <div className="footer-contact">
-            <h3>Contactame</h3>
+            <h3>Contáctame</h3>
             <p>Y pongamos manos a la obra</p>
         </div>
         <div className="footer-sns">
