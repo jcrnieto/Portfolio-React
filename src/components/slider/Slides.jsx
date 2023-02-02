@@ -18,14 +18,24 @@ const slidesInfo = [
         desc:"https://pi-food-snowy.vercel.app/"
     },
     {
-        src:"https://i.ibb.co/yfx4LRV/w.png", 
+        src:"https://firebasestorage.googleapis.com/v0/b/imagenes-placeressintacc.appspot.com/o/t.png?alt=media&token=d64a4e9c-73ac-41fb-8251-e1b9494d862e", 
         alt:"proyecto4",
-        desc:"https://frontend-peliculas.vercel.app/"
+        desc:"https://frontend-placeressintacc.vercel.app/"
     },
     {
-        src:"https://i.ibb.co/9g9b5Gf/r.png", 
+        src:"https://firebasestorage.googleapis.com/v0/b/imagenes-placeressintacc.appspot.com/o/y.png?alt=media&token=22660ecc-17e1-4d33-b47c-b799d9325cc6", 
         alt:"proyecto4",
-        desc:"https://frontend-peliculas.vercel.app/"
+        desc:"https://frontend-placeressintacc.vercel.app/"
+    },
+    {
+        src:"https://firebasestorage.googleapis.com/v0/b/imagenes-placeressintacc.appspot.com/o/u.png?alt=media&token=50da7896-d472-4082-a8b9-d86bc9064c7d", 
+        alt:"proyecto4",
+        desc:"https://frontend-placeressintacc.vercel.app/"
+    },
+    {
+        src:"https://firebasestorage.googleapis.com/v0/b/imagenes-placeressintacc.appspot.com/o/y.png?alt=media&token=22660ecc-17e1-4d33-b47c-b799d9325cc6", 
+        alt:"proyecto4",
+        desc:"https://frontend-placeressintacc.vercel.app/"
     }
 ]
 
