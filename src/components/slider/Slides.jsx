@@ -36,6 +36,12 @@ const slidesInfo = [
         src:"https://firebasestorage.googleapis.com/v0/b/imagenes-placeressintacc.appspot.com/o/y.png?alt=media&token=22660ecc-17e1-4d33-b47c-b799d9325cc6", 
         alt:"proyecto4",
         desc:"https://frontend-placeressintacc.vercel.app/"
+    },
+    ,
+    {
+        src:"file:///C:/Users/Juan/Downloads/axy0r-0z4pu.webp", 
+        alt:"proyecto4",
+        desc:"https://fundacion-uno.vercel.app/"
     }
 ]
 
